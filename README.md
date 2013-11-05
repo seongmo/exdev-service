@@ -1,2 +1,2 @@
-exdev-servie
-============
+exdev-service
+=============
